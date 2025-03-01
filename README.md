@@ -1,6 +1,6 @@
 <h1 align="center">$$\color{#a5a5a5} \Large \text{BPB PANEL}$$</h1>
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Gendarxml/bia-bain-bache)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Gendarxml/bia-pain-bache)
 
  __*[🇮🇷 Persian](README-fa.md)*__
  __*[🇬🇧 English](README.md)*__
